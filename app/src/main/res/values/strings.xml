@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Peliculas_181661</string>
+
+    <string name="peli1"> Dr Strange 2 </string>
+    <string name="peli2"> Buzz </string>
+    <string name="peli3"> Back to the future </string>
+
+    <string name="peli1_sinop"> Doctor Strange en el Multiverso de la Locura </string>
+    <string name="peli2_sinop"> Buzz Lightyear, el más famoso Guardián del Espacio, tendrá que vérselas con el malvado Emperador Zurg </string>
+    <string name="peli3_sinop"> Marty McFly, un adolescente rebelde e impulsivo que vive con sus padres y viaja accidentalmente al pasado desde 1985, su época, a 1955, la época en que sus padres se conocieron</string>
+</resources>

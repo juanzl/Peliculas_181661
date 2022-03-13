@@ -8,4 +8,15 @@
     <string name="peli1_sinop"> Doctor Strange en el Multiverso de la Locura </string>
     <string name="peli2_sinop"> Buzz Lightyear, el más famoso Guardián del Espacio, tendrá que vérselas con el malvado Emperador Zurg </string>
     <string name="peli3_sinop"> Marty McFly, un adolescente rebelde e impulsivo que vive con sus padres y viaja accidentalmente al pasado desde 1985, su época, a 1955, la época en que sus padres se conocieron</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Peliculas</string>
+    <string name="menu_gallery">Series</string>
+    <string name="menu_slideshow">Favoritos</string>
 </resources>

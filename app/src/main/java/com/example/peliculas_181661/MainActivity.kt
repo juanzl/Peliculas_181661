@@ -24,10 +24,10 @@ class MainActivity : AppCompatActivity() {
         val pelicula1 = Pelicula(1, getString(R.string.peli1),getString(R.string.peli1_sinop), 120, R.drawable.strange)
         peliculas.add(pelicula1)
 
-        val pelicula2 = Pelicula(2,getString(R.string.peli2),getString(R.string.peli2_sinop), 88, R.drawable.strange)
+        val pelicula2 = Pelicula(2,getString(R.string.peli2),getString(R.string.peli2_sinop), 88, R.drawable.buzz)
         peliculas.add(pelicula2)
 
-        val pelicula3 = Pelicula(3,getString(R.string.peli3),getString(R.string.peli3_sinop), 108, R.drawable.strange)
+        val pelicula3 = Pelicula(3,getString(R.string.peli3),getString(R.string.peli3_sinop), 108, R.drawable.back)
         peliculas.add(pelicula3)
 
     }
